@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\New folder (2)"
+		},
+		{
+			"name": "connec_to_wifi",
+			"path": "..\\..\\connec_to_wifi"
+		},
+		{
+			"name": "web_server_wifi",
+			"path": ".."
+		},
+		{
+			"name": "WIFI_AP_MODE",
+			"path": "..\\..\\WIFI_AP_MODE"
+		},
+		{
+			"name": "Review",
+			"path": "..\\..\\Review"
+		}
+	],
+	"settings": {}
+}
